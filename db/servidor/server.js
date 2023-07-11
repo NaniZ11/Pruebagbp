@@ -1,5 +1,5 @@
 import express from 'express';
-import dotenv from 'dotenn';
+import dotenv from 'dotenv';
 import bodegasRouter from '../routers/bodegas.js';
 import productosRouter from '../routers/productos.js';
 import inventariosRouter from '../routers/inventarios.js';
